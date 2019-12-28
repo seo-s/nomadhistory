@@ -6,8 +6,11 @@ body{
   }
 #title{
     font-size: 100px;
+    font-style: bold;
 }
-    
+#name{
+    font-size: 100px;
+}
 .t{
     font-size: 30px;
 }
