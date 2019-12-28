@@ -7,7 +7,6 @@ body{
 #title{
     font-size: 100px;
     font-style: bold;
-    margin-bottom: 10px;
 }
 #name{
     font-size: 100px;
@@ -16,6 +15,3 @@ body{
     font-size: 30px;
 }
 
-hr{
-    margin-bottom: 20px;
-}
