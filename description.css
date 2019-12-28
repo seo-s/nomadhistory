@@ -9,11 +9,12 @@ body{
     font-style: bold;
 }
 #name{
-    font-size: 100px;
+    font-size: 80px;
+    margin-top: 10px;
 }
 .t{
     font-size: 40px;
 }
 #o{
-    margin-top: 20px;
+    margin-top: 50px;
 }
