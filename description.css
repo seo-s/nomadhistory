@@ -7,10 +7,10 @@ body{
 #title{
     font-size: 100px;
     font-style: bold;
+    margin-bottom: 10px;
 }
 #name{
     font-size: 100px;
-    margin-top: 20px;
 }
 .t{
     font-size: 30px;
