@@ -15,3 +15,7 @@ body{
 .t{
     font-size: 30px;
 }
+
+hr{
+    margin-bottom: 20px;
+}
